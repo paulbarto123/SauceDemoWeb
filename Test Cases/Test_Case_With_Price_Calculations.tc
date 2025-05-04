@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_Case_With_Price_Calculations</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8bc05cc6-543a-466f-93cf-c1a395ff19a7</testCaseGuid>
+</TestCaseEntity>
